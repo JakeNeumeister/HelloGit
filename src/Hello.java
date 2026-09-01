@@ -1,6 +1,5 @@
 /**
  * AUTHOR: Jake Neumeister
- * CSCE 155H
  */
 
 public class Hello {
